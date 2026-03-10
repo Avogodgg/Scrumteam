@@ -1,3 +1,3 @@
 <?php
-echo "Diego Alexis Rivas Muñoz";
+echo "Diega Rivera Moños";
 ?>
